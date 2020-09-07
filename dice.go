@@ -7,7 +7,7 @@ import (
 	"regexp"
 )
 
-// a Die holds the number of sides on the die
+// Die holds the number of sides on the die
 type Die int
 
 // ParseDice takes a Dungeons and Dragons dice string
